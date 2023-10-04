@@ -33,3 +33,8 @@
 	<li><code>0 &lt;= Node.val &lt;= 9</code></li>
 	<li>It is guaranteed that the list represents a number that does not have leading zeros.</li>
 </ul>
+
+-----
+### [Best Answer](https://leetcode.com/problems/add-two-numbers/solutions/4120067/100-beats-java-math/)
+
+sum을 중심으로 `l1`, `l2`를 각각 신경썼으면 더 깔끔한 코드가 나왔을텐데, 재귀를하면서도 지저분한 코드가 되어 아쉽다..
