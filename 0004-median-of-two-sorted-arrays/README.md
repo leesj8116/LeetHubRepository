@@ -30,3 +30,10 @@
 	<li><code>1 &lt;= m + n &lt;= 2000</code></li>
 	<li><code>-10<sup>6</sup> &lt;= nums1[i], nums2[i] &lt;= 10<sup>6</sup></code></li>
 </ul>
+
+---
+
+## Comment
+
+처음의 두 배열 `nums1`, `nums2`를 합치면서 정렬을 해서 넣었더니 속도가 훨씬 줄어들었다. (11ms -> 2ms)  
+아무래도 `Arrays.stream()`은 확실히 느린듯 하다.
