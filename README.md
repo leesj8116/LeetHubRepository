@@ -5,3 +5,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## ❌ Failed
 
 - 0003
+- 0005
